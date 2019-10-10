@@ -3,9 +3,9 @@ Simple program which can be used to play with Celular automaton called Langtons 
 Program is written in python using PyGame
 
 ## Run
-'''
+```
 python antvis.py
-'''
+```
 
 ## Controls
 - Click anywhere with LMB to place an ant on the screen
