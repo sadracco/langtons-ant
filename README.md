@@ -8,6 +8,6 @@ python antvis.py
 ```
 
 ## Controls
-- Click anywhere with LMB to place an ant on the screen
-- Press space to start an animation
-- Press enter to clear a screen
+- Click anywhere with **LMB** to place an ant on the screen
+- Press **space** to start an animation
+- Press **enter** to clear the screen
